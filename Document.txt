@@ -1,0 +1,6 @@
+To run this file --> python manage.py runserver 
+Django Administration login --> username = admin, password = admin.
+Admin Dashboard--> username= admin@gmail.com, password = 123.
+User Dashbooard --> username = rakhi123@gmail.com, password = rakhi001@.
+signin --> username - rakhi123@gmail.com
+password --> rakhi001@.
